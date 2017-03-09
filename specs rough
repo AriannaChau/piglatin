@@ -6,10 +6,6 @@ adds "ay" to single vowel
 Input: i
 Output: iay
 
-adds "ay" regardless of case
-Input: A
-Output: Aay
-
 adds "ay" to multi-character vowels
 Input: Ant
 Output: Antay
